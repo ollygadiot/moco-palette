@@ -33,8 +33,8 @@ The visualization shows a series of rotating colored rectangles that animate bas
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ollygadiot/df-osc.git
-   cd df-osc
+   git clone https://github.com/ollygadiot/moco-palette.git
+   cd moco-palette
    ```
 
 2. Install server dependencies:
@@ -79,7 +79,7 @@ The visualization shows a series of rotating colored rectangles that animate bas
 ## Project Structure
 
 ```
-df-osc/
+moco-palette/
 ├── client/
 │   ├── index.html      # Web client UI
 │   └── client.js       # Client-side JavaScript
